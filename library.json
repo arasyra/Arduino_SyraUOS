@@ -1,0 +1,23 @@
+{
+  "name": "SyraUOS",
+  "version": "1.1.0",
+  "description": "Syra uOS is a Tiny Operating System for small microcontrollers",
+  "keywords": "microcontrollers, arduino, esp, event driven, supper loop",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arasyra/Arduino_SyraUOS.git"
+  },
+  "authors": [
+    {
+      "name": "Dev Nww",
+      "email": "dev.nww@gmail.com",
+      "url": "https://github.com/arasyra/Arduino_SyraUOS",
+      "maintainer": true
+    }
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/arasyra/Arduino_SyraUOS",
+  "dependencies": {},
+  "frameworks": "*",
+  "platforms": "*"
+}

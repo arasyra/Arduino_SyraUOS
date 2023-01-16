@@ -1,0 +1,38 @@
+#######################################
+# Syntax Coloring Map For SyraUOS
+####################################### 
+# Classes
+#######################################
+
+SyraUOS	KEYWORD1
+
+#######################################
+# Methods and Functions 
+#######################################	
+
+Setup	KEYWORD2
+Run	KEYWORD2
+TaskCreate	KEYWORD2
+TaskWait	KEYWORD2
+TaskSuspend	KEYWORD2
+TaskSuspend	KEYWORD2
+TaskResume	KEYWORD2
+TaskDelete	KEYWORD2
+
+
+_TaskWait(x) KEYWORD3
+_TaskSuspend() KEYWORD3
+
+_TaskSuspendByID(x) KEYWORD3
+_TaskResumeByID(x) KEYWORD3
+_TaskDeleteByID(x) KEYWORD3
+
+
+#######################################
+# Variables 
+#######################################	
+
+
+#######################################
+# Constants
+#######################################
